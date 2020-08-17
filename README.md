@@ -1,6 +1,6 @@
 To train an agent to play chrome dino game perfectly, used genetic algoritm and neural networks. 
 
-![](nn.svg)
+![](nn.jpg)
 
 The neural network architecture has 1 input layer, 2 hidden layers and 1 output layer. There are 2 inputs which are distance between dino and cactuses and distance between dino and birds.
 
