@@ -4,7 +4,7 @@ The neural network architecture which has an input layer, 2 hidden layers and 1 
 
 ![](nn.jpg)
 
-When jump is bigger than noJump, dino will jump on the cactus and when slide is higher than noSlide, dino will slide under the birds.
+When jump is higher than noJump, dino will jump on the cactus and when slide is higher than noSlide, dino will slide under the birds.
 
 
 ![](chromeDino.gif)
