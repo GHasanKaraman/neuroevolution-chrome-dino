@@ -14,6 +14,8 @@ To train an agent to play chrome dino game perfectly, used genetic algoritm and 
 
 The neural network architecture which has an input layer, 2 hidden layers and 1 output layer, is used for brain of each dino. There are 2 inputs which are distance between dino and cactus, distance between dino and flying dino. Also there are 4 outputs which are jump, noJump, slide, noSlide.
 
+![](nn.jpg)
+
 When jump is higher than noJump, dino will jump on the cactus and when slide is higher than noSlide, dino will slide under the flying dino.
 
 ### Setup
